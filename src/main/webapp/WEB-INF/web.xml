@@ -39,6 +39,11 @@
   	</form-login-config>
   </login-config>
   
+  <!-- 예외 처리 -->
+  <error-page>
+  	<error-code>500</error-code>
+  	<location>/exception/errorCode_msg.jsp</location>
+  </error-page>
   
   
   
