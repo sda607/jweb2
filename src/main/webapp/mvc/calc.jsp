@@ -7,6 +7,6 @@
 <title>짝수 / 홀수 판정</title>
 </head>
 <body>
-	<p>결과 : ${ㄱㄷ }
+	<p>결과 : ${ ㄱㄷ}
 </body>
 </html>
